@@ -15,7 +15,7 @@
 </br>
 
 <h1 >
-    <a href="https://dt-money-self.vercel.app/">
+    <a href="https://dt-money-self.vercel.app/" target="_blank">
         <img alt="dtMoney na Vercel" src="./src/assets/vercel.png" height=100 />
     </a>
 </h1>
